@@ -1,0 +1,53 @@
+Name of Medication,Class,Side Effects,,dry mouth,3
+carbamazepine (Tegretol),Mood Stabilizer ,drowsiness,,agranulocytosis,5
+carbamazepine (Tegretol),Mood Stabilizer ,headache,,blood dyscrasias,7
+carbamazepine (Tegretol),Mood Stabilizer ,nausea,,constipation,4
+carbamazepine (Tegretol),Mood Stabilizer ,tremor,,dizziness,4
+carbamazepine (Tegretol),Mood Stabilizer ,blurred vision,,elevated liver enzymes,8
+carbamazepine (Tegretol),Mood Stabilizer ,weight gain,,headaches,5
+carbamazepine (Tegretol),Mood Stabilizer ,rash,,impaired glucose tolerance/diabetes,8
+carbamazepine (Tegretol),Mood Stabilizer ,photosensitivity,,increased blood pressure,6
+carbamazepine (Tegretol),Mood Stabilizer ,blood dyscrasias,,jitteriness,4
+gabapentin (Neurontin),Mood Stabilizer ,drowsiness,,less likely to cause withdrawal symptoms,5
+gabapentin (Neurontin),Mood Stabilizer ,dizziness,,menstrual disturbances,7
+gabapentin (Neurontin),Mood Stabilizer ,blurred vision,,orthostatic hypotension,7
+gabapentin (Neurontin),Mood Stabilizer ,tiredness,,restlessness,5
+gabapentin (Neurontin),Mood Stabilizer ,weight gain,,sweating,2
+lamotrigine (Lamictal),Mood Stabilizer ,dizziness,,tiredness,6
+lamotrigine (Lamictal),Mood Stabilizer ,vomiting,,weight gain,7
+lamotrigine (Lamictal),Mood Stabilizer ,rash,,headache,5
+lamotrigine (Lamictal),Mood Stabilizer ,nausea,,ataxia,8
+lamotrigine (Lamictal),Mood Stabilizer ,headache,,blurred vision,4
+lamotrigine (Lamictal),Mood Stabilizer ,drowsiness,,decreased sex drive beat,5
+"lithium (Carbolith, Duralith,Lithane)",Mood Stabilizer ,tremor,,dizzinesss,4
+"lithium (Carbolith, Duralith,Lithane)",Mood Stabilizer ,confusion ,,fatigue,6
+"lithium (Carbolith, Duralith,Lithane)",Mood Stabilizer ,vomiting,,hypotension,5
+"lithium (Carbolith, Duralith,Lithane)",Mood Stabilizer ,rash,,increased appetite,6
+"lithium (Carbolith, Duralith,Lithane)",Mood Stabilizer ,nausea,,insomnia,6
+"lithium (Carbolith, Duralith,Lithane)",Mood Stabilizer ,dizziness,,jitteriness/motor memory impairment,6
+"lithium (Carbolith, Duralith,Lithane)",Mood Stabilizer ,sedation,,menstrual irregularities,5
+"lithium (Carbolith, Duralith,Lithane)",Mood Stabilizer ,weight gain,,photosensitivity,4
+"lithium (Carbolith, Duralith,Lithane)",Mood Stabilizer ,thyroid and kidney dysfunction,,sedation,4
+oxcarbazepine (Trileptal),Mood Stabilizer ,headache,,tardive dyskinesia,7
+oxcarbazepine (Trileptal),Mood Stabilizer ,drowsiness,,tolerance,5
+oxcarbazepine (Trileptal),Mood Stabilizer ,tiredness,,weight loss,3
+oxcarbazepine (Trileptal),Mood Stabilizer ,dizziness,,insomnia,6
+oxcarbazepine (Trileptal),Mood Stabilizer ,ataxia,,bad taste in mouth (zopiclone),3
+oxcarbazepine (Trileptal),Mood Stabilizer ,nausea,,confusion,3
+topiramate (Topamax),Mood Stabilizer ,nausea,,dependence,4
+topiramate (Topamax),Mood Stabilizer ,weight loss,,drowsiness,3
+topiramate (Topamax),Mood Stabilizer ,dizziness,,hair loss,3
+topiramate (Topamax),Mood Stabilizer ,drowsiness,,impaired coordination,6
+topiramate (Topamax),Mood Stabilizer ,tremor,,dry mouth,3
+"valproic acid/divalproex (Depakene, Epival)",Mood Stabilizer ,nausea,,irregular heart,8
+"valproic acid/divalproex (Depakene, Epival)",Mood Stabilizer ,menstrual disturbances,,sexual dysfunction,6
+"valproic acid/divalproex (Depakene, Epival)",Mood Stabilizer ,elevated liver enzymes,,urinary retention,6
+"valproic acid/divalproex (Depakene, Epival)",Mood Stabilizer ,hair loss,,nausea,5
+"valproic acid/divalproex (Depakene, Epival)",Mood Stabilizer ,weight gain,,rash,4
+"valproic acid/divalproex (Depakene, Epival)",Mood Stabilizer ,sedation,,sedation,4
+,,,,thyroid and kidney dysfunction,7
+,,,,tremor,5
+,,,,withdrawal upon discontinuation,4
+,,,,Parkinson-like symptoms,8
+,,,,headache,4
+,,,,vomiting,4
